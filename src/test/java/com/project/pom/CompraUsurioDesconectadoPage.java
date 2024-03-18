@@ -55,11 +55,11 @@ public class CompraUsurioDesconectadoPage extends Base {
 		}
 
 	}
-
+  //inicio sesion
 	public void InisioSesionUsuario() throws InterruptedException {
 		Thread.sleep(200);
 		if (isDisplayed(paginaAuthentication)) {
-			type("lenovoinicion18@gmail.com", emailLoc);
+			type("lenovoinicion22@gmail.com", emailLoc);
 			type("Jesus1234", password);
 			click(iniciosesionBtnLocator);
 			Thread.sleep(2000);

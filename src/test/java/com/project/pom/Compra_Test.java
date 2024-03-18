@@ -23,17 +23,6 @@ public class Compra_Test {
 		compraPage.visit("http://www.automationpractice.pl");
 		driver.manage().window().maximize();
 		
-		//para dar scroll
-//		JavascriptExecutor js = (JavascriptExecutor) driver;
-//		
-//		WebElement El1 = driver.findElement(By.xpath("//*[@id=\\\"block_top_menu\\\"]/ul/li[2]/a"));
-//		WebElement El2 = driver.findElement(By.xpath("//*[@id=\"center_column\"]/ul/li[2]/div/div[2]/h5/a"));
-//
-//		js.executeScript("argument[0].scrollIntoView();, El1");
-//		
-//		El2.click();
-//		
-//		Thread.sleep(5000);
 	}
 
 	

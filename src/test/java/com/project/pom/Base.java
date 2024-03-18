@@ -27,6 +27,7 @@ public class Base {
 		return driver;
 	}
 	
+	// Comandos de selenium
 	public WebElement findElenment(By locator) {
 		return driver.findElement(locator);
 	}

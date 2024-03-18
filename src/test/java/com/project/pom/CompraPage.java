@@ -49,7 +49,7 @@ public class CompraPage extends Base {
 		click(registro);
 		Thread.sleep(200);
 		if (isDisplayed(paginaAuthentication)) {
-			type("lenovoinicion20@gmail.com", emailLoc);
+			type("lenovoinicion22@gmail.com", emailLoc);
 			type("Jesus1234", password);
 			click(iniciosesionBtnLocator);
 		} else {

@@ -36,7 +36,7 @@ public class RegisterPage extends Base {
 		click(registro);
 		Thread.sleep(200);
 		if (isDisplayed(paginaAuthentication)) {
-			type("lenovoinicion20@gmail.com", emailLocator);
+			type("lenovoinicion22@gmail.com", emailLocator);
 			click(createBtnLocator);
 		} else {
 			System.out.print("No sepuede abrir cuenta");
