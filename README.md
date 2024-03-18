@@ -14,3 +14,4 @@
 
 The generated report is available here: [https://allure-examples.github.io/junit4-java-maven](https://allure-examples.github.io/junit4-java-maven/)
 # AutomationpracticePl
+# AutomationpracticePl
